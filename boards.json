@@ -150,18 +150,6 @@
       "status": "active",
       "note": "游戏为主，可参考KV结构"
     },
-    "A11": {
-      "url": "https://huaban.com/boards/100133373",
-      "owner": "首印品牌策划设计",
-      "title": "土特产品牌全案",
-      "industry_tags": ["餐饮", "综合"],
-      "scene_tags": ["春节", "年货节", "本土化营销"],
-      "material_tags": ["海报", "主视觉", "包装延展"],
-      "visual_tags": ["国潮", "本土化", "暖色", "烟火气"],
-      "priority": 96,
-      "status": "active",
-      "note": "餐饮年货节、土特产、本地化活动优先参考"
-    },
     "A12": {
       "url": "https://huaban.com/boards/30442415",
       "owner": "赫本本本本本本",
