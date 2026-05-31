@@ -1,0 +1,100 @@
+{
+  "version": "2026-05-31",
+  "updated_at": "2026-05-31",
+  "source": "github",
+  "industries": {
+    "餐饮": {
+      "description": "餐饮活动、吃货节、年货节、美食商家活动",
+      "primary_boards": ["A1", "A2", "A3", "A7", "A11"],
+      "fallback_boards": ["A5", "A9", "A14"]
+    },
+    "本地服务": {
+      "description": "到店、生活服务、便利店、房产、服务商家活动",
+      "primary_boards": ["A1", "A3", "A7", "A14", "A18"],
+      "fallback_boards": ["A5", "A9"]
+    },
+    "综合": {
+      "description": "农资、工农机械、综合消费、医疗等综合行业运营活动",
+      "primary_boards": ["A6", "A9", "A12", "A4"],
+      "fallback_boards": ["A5", "A13"]
+    },
+    "汽车": {
+      "description": "汽车促销、焕新、购车节、车主活动",
+      "primary_boards": ["C1", "C2", "C3"],
+      "fallback_boards": []
+    },
+    "投资消费": {
+      "description": "金融、消费金融、投资、理财、贷款、权益、补贴类活动",
+      "primary_boards": ["I1", "I2", "I3", "I4", "I5", "I6"],
+      "fallback_boards": []
+    }
+  },
+  "boards": {
+    "A1": {
+      "url": "https://huaban.com/boards/87028913",
+      "owner": "你好汽水",
+      "title": "活动运营·本地生活",
+      "industry_tags": ["餐饮", "本地服务"],
+      "scene_tags": ["大促", "节日", "通用运营"],
+      "material_tags": ["海报", "闪屏", "活动页"],
+      "visual_tags": ["烟火气", "亲切", "生活化"],
+      "priority": 90,
+      "status": "active",
+      "note": "竖版为主，适合生活化活动氛围参考"
+    },
+    "A2": {
+      "url": "https://huaban.com/boards/93549479",
+      "owner": "栗飞",
+      "title": "烟火气·暖色运营",
+      "industry_tags": ["餐饮"],
+      "scene_tags": ["大促", "节日", "春节", "年货节"],
+      "material_tags": ["海报", "主视觉", "活动页"],
+      "visual_tags": ["暖色", "餐饮", "节庆", "烟火气"],
+      "priority": 95,
+      "status": "active",
+      "note": "餐饮年货节和节庆活动优先参考"
+    },
+    "A3": {
+      "url": "https://huaban.com/boards/96322462",
+      "owner": "栗飞",
+      "title": "小红书&陌陌营销活动",
+      "industry_tags": ["餐饮", "本地服务", "综合"],
+      "scene_tags": ["大促", "营销活动", "通用运营"],
+      "material_tags": ["海报", "闪屏", "活动页"],
+      "visual_tags": ["年轻", "互联网", "营销"],
+      "priority": 80,
+      "status": "active",
+      "note": "适合年轻化运营活动参考"
+    },
+    "A4": {
+      "url": "https://huaban.com/boards/90572558",
+      "owner": "温良__",
+      "title": "营销氛围感活动页",
+      "industry_tags": ["综合", "本地服务"],
+      "scene_tags": ["大促", "App活动", "通用运营"],
+      "material_tags": ["活动页", "海报", "主视觉"],
+      "visual_tags": ["炫彩", "科技", "品质感", "3D"],
+      "priority": 78,
+      "status": "active",
+      "note": "综合行业氛围感和活动页参考"
+    },
+    "A5": {
+      "url": "https://huaban.com/boards/19147865",
+      "owner": "左小一°",
+      "title": "创意广告海报",
+      "industry_tags": ["餐饮", "本地服务", "综合"],
+      "scene_tags": ["创意海报", "运营活动", "节日"],
+      "material_tags": ["海报", "主视觉"],
+      "visual_tags": ["创意", "IP", "插画", "多元风格"],
+      "priority": 70,
+      "status": "active",
+      "note": "通用扩展池，素材不足时使用"
+    },
+    "A6": {
+      "url": "https://huaban.com/boards/79559664",
+      "owner": "金价耶布哒",
+      "title": "主视觉/主画面/主KV",
+      "industry_tags": ["综合"],
+      "scene_tags": ["主视觉", "节日", "商业KV"],
+      "material_tags": ["主视觉", "海报"],
+      "visual_tags": ["品质商业", "KV结构", "3D渐变"],
