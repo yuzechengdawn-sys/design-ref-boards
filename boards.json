@@ -1,3 +1,53 @@
+{
+  "version": "2026-05-31",
+  "updated_at": "2026-05-31",
+  "source": "github",
+  "industries": {
+    "餐饮": {
+      "description": "餐饮活动、吃货节、年货节、美食商家活动",
+      "primary_boards": ["A1", "A2", "A3", "A7", "A11"],
+      "fallback_boards": ["A5", "A9", "A14"]
+    },
+    "本地服务": {
+      "description": "到店、生活服务、便利店、房产、服务商家活动",
+      "primary_boards": ["A1", "A3", "A7", "A14", "A18"],
+      "fallback_boards": ["A5", "A9"]
+    },
+    "综合": {
+      "description": "农资、工农机械、综合消费、医疗等综合行业运营活动",
+      "primary_boards": ["A6", "A9", "A12", "A4"],
+      "fallback_boards": ["A5", "A13"]
+    },
+    "汽车": {
+      "description": "汽车促销、焕新、购车节、车主活动",
+      "primary_boards": ["C1", "C2", "C3"],
+      "fallback_boards": []
+    },
+    "投资消费": {
+      "description": "金融、消费金融、投资、理财、贷款、权益、补贴类活动",
+      "primary_boards": ["I1", "I2", "I3", "I4", "I5", "I6"],
+      "fallback_boards": []
+    }
+  },
+  "boards": {
+    "A1": {
+      "url": "https://huaban.com/boards/87028913",
+      "owner": "你好汽水",
+      "title": "活动运营·本地生活",
+      "industry_tags": ["餐饮", "本地服务"],
+      "scene_tags": ["大促", "节日", "通用运营"],
+      "material_tags": ["海报", "闪屏", "活动页"],
+      "visual_tags": ["烟火气", "亲切", "生活化"],
+      "priority": 90,
+      "status": "active",
+      "note": "竖版为主，适合生活化活动氛围参考"
+    },
+    "A2": {
+      "url": "https://huaban.com/boards/93549479",
+      "owner": "栗飞",
+      "title": "烟火气·暖色运营",
+      "industry_tags": ["餐饮"],
+      "scene_tags": ["大促", "节日", "春节", "年货节"],
       "material_tags": ["海报", "主视觉", "活动页"],
       "visual_tags": ["暖色", "餐饮", "节庆", "烟火气"],
       "priority": 95,
@@ -248,3 +298,61 @@
       "url": "https://huaban.com/boards/99475842",
       "owner": "",
       "title": "投资消费专属画板 2",
+      "industry_tags": ["投资消费"],
+      "scene_tags": ["金融活动", "消费金融"],
+      "material_tags": ["主视觉", "海报"],
+      "visual_tags": ["黑金", "红金", "蓝白", "紫金"],
+      "priority": 90,
+      "status": "active",
+      "note": "用户指定，待补充识别"
+    },
+    "I3": {
+      "url": "https://huaban.com/boards/68020876",
+      "owner": "",
+      "title": "投资消费专属画板 3",
+      "industry_tags": ["投资消费"],
+      "scene_tags": ["金融活动", "消费金融"],
+      "material_tags": ["主视觉", "海报"],
+      "visual_tags": ["黑金", "红金", "蓝白", "紫金"],
+      "priority": 90,
+      "status": "active",
+      "note": "用户指定，待补充识别"
+    },
+    "I4": {
+      "url": "https://huaban.com/boards/82573120",
+      "owner": "",
+      "title": "投资消费专属画板 4",
+      "industry_tags": ["投资消费"],
+      "scene_tags": ["金融活动", "消费金融"],
+      "material_tags": ["主视觉", "海报"],
+      "visual_tags": ["黑金", "红金", "蓝白", "紫金"],
+      "priority": 90,
+      "status": "active",
+      "note": "用户指定，待补充识别"
+    },
+    "I5": {
+      "url": "https://huaban.com/boards/84593021",
+      "owner": "",
+      "title": "投资消费专属画板 5",
+      "industry_tags": ["投资消费"],
+      "scene_tags": ["金融活动", "消费金融"],
+      "material_tags": ["主视觉", "海报"],
+      "visual_tags": ["黑金", "红金", "蓝白", "紫金"],
+      "priority": 90,
+      "status": "active",
+      "note": "用户指定，待补充识别"
+    },
+    "I6": {
+      "url": "https://huaban.com/boards/93652330",
+      "owner": "",
+      "title": "投资消费专属画板 6",
+      "industry_tags": ["投资消费"],
+      "scene_tags": ["金融活动", "消费金融"],
+      "material_tags": ["主视觉", "海报"],
+      "visual_tags": ["黑金", "红金", "蓝白", "紫金"],
+      "priority": 90,
+      "status": "active",
+      "note": "用户指定，待补充识别"
+    }
+  }
+}
